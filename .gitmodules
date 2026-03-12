@@ -1,0 +1,6 @@
+[submodule "sw-mepa"]
+	path = sw-mepa
+	url = https://github.com/microchip-ung/sw-mepa
+[submodule "mdio-tools"]
+	path = mdio-tools
+	url = https://github.com/wkz/mdio-tools
